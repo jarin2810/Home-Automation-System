@@ -19,4 +19,7 @@ Here, I have used ESP8266 for controlling the devices.
     - Jumper Wire
 ## 3. Software:
     - Arduino 
+## 4. Output:
+Admin Login Page :
+![](images/1.jpg)
 
