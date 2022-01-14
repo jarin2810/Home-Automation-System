@@ -16,10 +16,22 @@ Here, I have used ESP8266 for controlling the devices.
     - Relay Module
     - Fan 
     - Motor
-    - Jumper Wire
+    - Jumper Wires
 ## 3. Software:
     - Arduino 
 ## 4. Output:
-Admin Login Page :
-![](images/1.jpg)
+- Admin Login Page :
 
+![](Images/11.png)
+
+- User GUI :
+
+![](Images/12.png)
+
+- Circuit :
+
+![](Images/13.png)
+
+- Circuit with Output :
+
+![](Images/14.png)
